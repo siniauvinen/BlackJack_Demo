@@ -12,20 +12,20 @@ An exercise program for playing Black Jack. The user interface has not been crea
 6. If the first two cards dealt gives you 21 points, you get a Black Jack.
 
 ## Card values
-ONE = 1
-TWO = 2
-THREE = 3
-FOUR = 4
-FIVE = 5
-SIX = 6
-SEVEN = 7
-EIGHT = 8
-NINE = 9
-TEN = 10
-JACK = 10
-QUEEN = 10
-KING = 10
-ACE = depending on the situation and always in favor of the player, 1 or 11 
+- ONE = 1
+- TWO = 2
+- THREE = 3
+- FOUR = 4
+- FIVE = 5
+- SIX = 6
+- SEVEN = 7
+- EIGHT = 8
+- NINE = 9
+- TEN = 10
+- JACK = 10
+- QUEEN = 10
+- KING = 10
+- ACE = depending on the situation and always in favor of the player, 1 or 11 
 
 ## Credits
 
