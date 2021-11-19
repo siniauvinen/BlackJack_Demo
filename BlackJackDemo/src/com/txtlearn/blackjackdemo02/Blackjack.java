@@ -101,7 +101,7 @@ public class Blackjack {
 			}
 			
 			if((playerDeck.cardsValue() > dealerDeck.cardsValue()) && endRound == false) {
-				System.out.println("You win the hand");
+				System.out.println("You win the hand! :)");
 				playerMoney += playerBet;
 				endRound = true;
 			} else if (endRound == false) {
